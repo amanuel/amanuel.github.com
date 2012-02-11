@@ -11,7 +11,7 @@ title: stay hungry, stay foolish
 
 [![image](TabFinderIcon.png)](tabfinder.html)
 
-#### Safari extension to search your any tabs.
+#### Safari extension to search your open tabs.
 
 Have too many tabs open? Wasting too much time looking for the tab you opened a few hours/days ago? This extension is for you.
 

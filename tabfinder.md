@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-## Safari extension to search your any tabs.
+## Safari extension to search your open tabs.
 
 Have too many tabs open? Wasting too much time looking for the tab you opened a few hours/days ago? This extension is for you.
 
@@ -24,6 +24,10 @@ This is what TabFinder popover looks like:
 [![image](TabFinderIcon.png)](TabFinder.safariextz)
 
 TabFinder V1.0 [Download Extension](TabFinder.safariextz)
+
+## Credits
+
+Icons by 
 
 
 
