@@ -20,11 +20,18 @@ This is what TabFinder popover looks like:
 
 ![image](original.png)
 
+--- 
+
 ## Download
 [![image](TabFinderIcon.png)](TabFinder.safariextz)
 
 TabFinder V1.0 [Download Extension](TabFinder.safariextz)
 
+<<<<<<< HEAD
+=======
+--- 
+
+>>>>>>> tiny error and typo fixes
 ## Credits
 
 Icons by 
