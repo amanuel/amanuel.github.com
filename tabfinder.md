@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-## Safari extension to search your open tabs.
+## Safari extension to search open tabs.
 
 Have too many open tabs? Wasting time looking for tabs you opened a few hours/days ago? This extension is for you.
 
