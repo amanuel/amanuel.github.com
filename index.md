@@ -15,7 +15,7 @@ title: stay hungry, stay foolish
 
 Have too many open tabs? Wasting time looking for tabs you opened a few hours/days ago? This extension is for you.
 
-**TabFinder** V1.0 [Download Extension](TabFinder.safariextz)
+**TabFinder** V1.0 [Download Extension](TabFinder.safariextz) *coming soon*
 
 --- 
 
