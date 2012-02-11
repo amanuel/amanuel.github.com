@@ -27,11 +27,8 @@ This is what TabFinder popover looks like:
 
 TabFinder V1.0 [Download Extension](TabFinder.safariextz)
 
-<<<<<<< HEAD
-=======
 --- 
 
->>>>>>> tiny error and typo fixes
 ## Credits
 
 Icons by 
