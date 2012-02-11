@@ -12,7 +12,7 @@ Have too many tabs open? Wasting too much time looking for the tab you opened a 
 
 ### Features
  * Search across all open windows
- * Activate using the keyboard for quick access (cmd + &#96; )
+ * Activate using the keyboard for quick access (option or ctrl + &#96; )
  * Scroll and select tabs using keyboard only.
 
 ## Screenshot
