@@ -31,6 +31,7 @@ production_url : http://amanuel.github.com
 JB :
   version : 0.2.0
 
+  HOME_PATH : "/"
   # All links will be namespaced by BASE_PATH if defined.
   # This is required for hosting GitHub Project Pages.
   # If you are deploying this website for one of your GitHub projects
@@ -39,7 +40,7 @@ JB :
   # Leave this blank if you have defined a CNAME for your site (pages.github.com)
   # NOTE: When in localhost, your site will run from root "/" regardless of BASE_PATH
   #
-  BASE_PATH : "/"
+  BASE_PATH : ""
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
