@@ -8,7 +8,11 @@ group: navigation
 
 ## Safari extension to search your open tabs.
 
+<<<<<<< HEAD
 Too many open tabs? Wasting time looking for tabs you opened a few hours/days ago? This extension is for you.
+=======
+Have too many open tabs? Wasting time looking for tabs you opened a few hours/days ago? This extension is for you.
+>>>>>>> Better wording and adding Andrew Woo's website under credits.
 
 ### Features
  * Search across all open windows
