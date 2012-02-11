@@ -13,7 +13,7 @@ title: stay hungry, stay foolish
 
 #### Safari extension to search your open tabs.
 
-Have too many tabs open? Wasting too much time looking for the tab you opened a few hours/days ago? This extension is for you.
+Have too many open tabs? Wasting time looking for tabs you opened a few hours/days ago? This extension is for you.
 
 **TabFinder** V1.0 [Download Extension](TabFinder.safariextz)
 
