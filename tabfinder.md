@@ -25,13 +25,21 @@ This is what TabFinder popover looks like:
 ## Download
 [![image](TabFinderIcon.png)](TabFinder.safariextz)
 
-TabFinder V1.0 [Download Extension](TabFinder.safariextz) *coming soon*
+TabFinder V1.0 [Download Extension](TabFinder.safariextz)
 
 --- 
 
-## Credits
+### Credits
 
 Icons by [Andrew Woo](http://myuniverseisyours.com/)
+
+--- 
+
+### Beta Testers
+
+* [Isaac Tewolde](https://github.com/isaact)
+* Andrew Woo
+* Forrst Community
 
 
 
