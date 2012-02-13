@@ -85,7 +85,7 @@ JB :
     provider : google
     google : 
         tracking_id : 'UA-29147812-1'
-        domain_name : 'for.im'
+        domain_name : 'im.for.im'
     getclicky :
       site_id : 
 
