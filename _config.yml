@@ -83,13 +83,11 @@ JB :
   #        
   analytics :
     provider : mixpanel
+    mixpanel :
+        token : 'c7d1bf4a48794a14bcc92f7f81a853eb'
     google : 
         tracking_id : 'UA-29147812-1'
         domain_name : 'im.for.im'
-    getclicky :
-      site_id : 
-    mixpanel :
-        token : 'c7d1bf4a48794a14bcc92f7f81a853eb'
 
   # Settings for sharing helper. 
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
