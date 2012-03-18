@@ -36,4 +36,4 @@ Generate QR Codes locally with this extension and send a tab link or text to ano
 * <http://github.com/amanuel>
 * <http://ticklespace.com>
 
-
+[![image](https://mixpanel.com/site_media/images/partner/badge_light.png)](https://mixpanel.com/f/partner)
