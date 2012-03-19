@@ -88,7 +88,6 @@ JB :
     google : 
         tracking_id : 'UA-29147812-1'
         domain_name : 'im.for.im'
-
   # Settings for sharing helper. 
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
   # Set 'provider' to the sharing provider you want to use.
