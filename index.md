@@ -29,7 +29,7 @@ Generate QR Codes locally with this extension and send a tab link or text to ano
 
 **Tab Transmit** V1.1 [Download Extension](http://ticklespace.com/extensions/TabTransmit.safariextz)
 
-***
+--- 
 
 ## Other Projects
 
