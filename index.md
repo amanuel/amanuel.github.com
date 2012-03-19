@@ -11,7 +11,7 @@ title: stay hungry, stay foolish
 
 [![image](TabFinderIcon.png)](tabfinder.html)
 
-#### Safari extension: Spotlight for your tabs.
+#### Safari extension: TabFinder - Spotlight for your tabs.
 
 Have too many open tabs? Wasting time looking for tabs you opened a few hours/days ago? This extension is for you.
 
